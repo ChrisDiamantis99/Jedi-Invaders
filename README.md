@@ -19,4 +19,4 @@ Start playing the game!
 ## Credits
 Jedi Invaders was created by Tsitsos and Mike. This game was developed using C++.
 
-##Enjoy playing Jedi Invaders!
+## Enjoy playing Jedi Invaders!
