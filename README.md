@@ -12,8 +12,7 @@ The objective of the game is to defeat the enemy ship before he destroys you. Th
 ## Installation
 To install and run Jedi Invaders on your local machine, follow these steps:
 
-Clone the repository using the command git clone https://github.com/<your-username>/jedi-invaders.git
-Open the index.html file in your web browser
+Clone the repository using the command git clone
 Start playing the game!
 
 ## Credits
