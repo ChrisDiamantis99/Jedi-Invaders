@@ -1,5 +1,5 @@
 # Jedi Invaders
-Jedi Invaders is a classic 2-player arcade-style game that takes inspiration from the popular game Space Invaders but with a Star Wars theme. In this game, you can choose to play as a Jedi Knight commanding Millennium Falcon or as Sith Knight commanding a Tie Fighter.
+Jedi Invaders is a classic 2-player arcade-style game that takes inspiration from the popular game Space Invaders but with a Star Wars theme. In this game, you can choose to play as a Jedi Knight commanding Millennium Falcon or as Sith Lord commanding a Tie Fighter.
 
 ## Gameplay
 The objective of the game is to defeat the enemy ship before he destroys you. The players controls a ship at the bottom or top of the screen, moving horizontally and firing lasers upwards to destroy the enemy ship.
